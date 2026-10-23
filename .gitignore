@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dữ liệu và kết quả sinh ra khi huấn luyện/đánh giá
+data/
+**/exp/
+**/eval/
+**/loss_analysis/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log

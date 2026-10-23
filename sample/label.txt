@@ -1,0 +1,3 @@
+"wav": "sample/wenet/vi/common_voice_vi_25092495.wav", "txt": "ánh mắt của trinh nhìn quân đầy gợi tình"
+"wav": "sample/wenet/vi/common_voice_vi_25158101.wav", "txt": "chưa kể lời của sâm trai"
+"wav": "sample/wenet/vi/common_voice_vi_25177315.wav", "txt": "khi mẹ em ốm"
